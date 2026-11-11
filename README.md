@@ -43,6 +43,3 @@ cp .env.example .env   # Renseigner votre clé API OWM
 npm run dev
 ```
 # Tp7-Tp9-El-badra-houmam--Dehmani-sunduss
-# Tp7-Tp9-El-badra-houmam--Dehmani-sunduss
-# Tp7-Tp9-El-badra-houmam--Dehmani-sunduss1
-# Tp7-Tp9-El-badra-houmam--Dehmani-sunduss1
